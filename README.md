@@ -1,2 +1,2 @@
 a simple try
-<a href="list.htm">prova</a>
+<a href="list.md">prova</a>
