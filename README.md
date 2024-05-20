@@ -1,2 +1,2 @@
 a simple try
-<a href="list.html">prova</a>
+<a href="list.html">Prova</a>
